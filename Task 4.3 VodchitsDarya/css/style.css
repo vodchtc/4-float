@@ -93,6 +93,7 @@
           background-image: url(/images/logo-header.svg);
           background-repeat: no-repeat;
           background-position: bottom;
+          vertical-align: sub;
       }
       
       main {
@@ -142,5 +143,6 @@
       }
       
       .mouse {
-          padding: 801.6px 509px 68.6px 509px;
+          display: block;
+          text-align: center;
       }
