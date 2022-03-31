@@ -7,7 +7,7 @@
       body {
           background-color: #FFFAF3;
           background-image: url(/images/grape.png);
-          background-position: top right;
+          background-position: right top;
           background-repeat: no-repeat;
           margin-left: 79px;
       }
