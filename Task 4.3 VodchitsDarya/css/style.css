@@ -9,7 +9,6 @@
           background-image: url(/images/grape.png);
           background-position: right top;
           background-repeat: no-repeat;
-          margin-left: 79px;
       }
       
       .container {
@@ -64,7 +63,6 @@
           font-size: 70px;
           line-height: 81px;
           text-transform: uppercase;
-          padding-top: 124px;
       }
       
       h1 span {
@@ -98,6 +96,7 @@
       
       main {
           color: #3F4042;
+          padding: 123px 0 201px 0;
       }
       
       p {
